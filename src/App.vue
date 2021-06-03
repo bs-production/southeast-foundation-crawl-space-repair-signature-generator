@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1531/carolina-bs-header-logo.png" alt="" style="width:300px">
+            <img src="https://cdn.treehouseinternetgroup.com/cms_images/40/frontier-sign-logo.png" alt="" style="width:300px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -62,7 +62,7 @@
 
           <div class="gif-box level-item has-text-centered">
             <ul>
-              <li>1. Place cursor at the top-left corner of Carolina Basement Systems logo and click & drag to bottom-right corner of the disclaimer</li>
+              <li>1. Place cursor at the top-left corner of the company logo and click & drag to bottom-right corner of the disclaimer</li>
               <li>2. Paste into Outlook signatures in preferences panel</li>
               <li>3. Adjust logo size if needed</li>
             </ul>
@@ -76,7 +76,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2020 Carolina Basement Systems
+                    &copy;2021 Frontier Foundation &amp; Crawl Space Repair
                 </p>
             </div>
         </div>
@@ -159,7 +159,7 @@ li {
   margin-left: 1px;
   background-color: #efefef;
   padding: 20px;
-  border-top: 1px dashed #1aaee4;
+  border-top: 1px dashed #25408f;
 }
 .gif-box ul {
     text-align:left;
@@ -202,13 +202,13 @@ input:disabled {
   margin-right: 100px;
 }
 .hero.is-primary {
-  background-color: #1aaee4;
+  background-color: #25408f;
 }
 .button {
   margin-top: 10px;
 }
 .button.is-success, .button.is-success[disabled] {
-  background-color: #1aaee4;
+  background-color: #25408f;
   border-color: transparent;
   color: #fff;
 }
