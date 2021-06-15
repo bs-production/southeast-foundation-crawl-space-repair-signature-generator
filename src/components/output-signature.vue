@@ -71,8 +71,8 @@
                   <td valign="top" style=
                   "vertical-align: top; color: #333333; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   <a href="https://www.frontierbasementsystems.com" style=
-                  "color: #333333; text-decoration: none; font-weight: normal; font-size: 14px;">
-                    frontierbasementsystems.com</a>
+                  "color: #333333; text-decoration: none; font-weight: normal; font-size: 14px;" target="_blank">
+                 TrustFrontier.com</a>
                     &nbsp;&nbsp;
                   </td>
                 </tr>
