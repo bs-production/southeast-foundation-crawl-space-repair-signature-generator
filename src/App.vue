@@ -4,7 +4,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://cdn.treehouseinternetgroup.com/cms_images/40/frontier-sign-logo.png" alt="" style="width:300px">
+            <img src="https://cdn.treehouseinternetgroup.com/cms_images/280/SF_Logo-NoName-NoTagline_4C.png" alt="" style="width:300px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -75,7 +75,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2021 Frontier Foundation &amp; Crawl Space Repair
+                    &copy;2021 Southeast Foundation &amp; Crawl Space Repair
                 </p>
             </div>
         </div>
@@ -158,7 +158,7 @@ li {
   margin-left: 1px;
   background-color: #efefef;
   padding: 20px;
-  border-top: 1px dashed #25408f;
+  border-top: 1px dashed #273897;
 }
 .gif-box ul {
     text-align:left;
@@ -201,24 +201,24 @@ input:disabled {
   margin-right: 100px;
 }
 .hero.is-primary {
-  background-color: #25408f;
+  background-color: #cccccc;
 }
 .button {
   margin-top: 10px;
 }
 .button.is-success, .button.is-success[disabled] {
-  background-color: #25408f;
+  background-color: #273897;
   border-color: transparent;
   color: #fff;
 }
 .button.is-success.is-hovered,
 .button.is-success:hover {
-  background-color: #ef7caf;
+  background-color: #4259de;
   border-color: transparent;
   color: #fff;
 }
 .input:focus {
-  border-color: #ef7caf;
+  border-color: #4259de;
   box-shadow: 0 0 0 0.125em rgba(119, 187, 70, 0.25);
 }
 .sub-text {
@@ -229,13 +229,13 @@ input:disabled {
   color: #ffffff;
   font-family: "Barlow Condensed", sans-serif;
   font-weight: 700;
-  font-size: 30px;
+  font-size: 36px;
 }
 .hero-body {
   padding: 1.5rem 1.5rem;
 }
 .input:focus {
-  border-color: #ef7caf;
+  border-color: #4259de;
   box-shadow: 0 0 0 0.125em rgba(119, 187, 70, 0.25);
 }
 .fade-enter-active,
