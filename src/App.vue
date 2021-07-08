@@ -4,7 +4,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://cdn.treehouseinternetgroup.com/cms_images/280/SF_Logo-NoName-NoTagline_4C.png" alt="" style="width:300px">
+            <img src="https://cdn.treehouseinternetgroup.com/cms_images/280/SF_Logo_sign-gen.png" alt="" style="width:300px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
